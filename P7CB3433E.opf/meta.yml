@@ -1,0 +1,33 @@
+id: P7CB3433E
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30030
+  instance_id: http://purl.bdrc.io/resource/IE30030
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་ཆང་གཞས་ཕྱོགས་བསྒྲིགས།
+  alt_title:
+    en-x-mixed:
+    - Bod kyi chaṅ gźas phyogs bsgrigs /[bsdu sgrig pa], Bsod-tshe.
+    zh-hans:
+    - 西藏酒歌集
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    7709337d3a994152b5ac65a257355b8a:
+      title: པོད ༡་བོད་ཀྱི་ཆང་གཞས་ཕྱོགས་བསྒྲིགས།
+      volume_number: 1
+      base_file: UT30030_I1PD344_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7D42056289DF6FFE
+      image_group: I1PD344
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30030
+  - http://purl.bdrc.io/resource/MW30030
+  ocr_software: Namsel
+created_at: '2021-12-22T11:18:14.246840'
+last_modified_at: '2021-12-22T11:18:14.246847'
